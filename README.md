@@ -1,9 +1,9 @@
 #rap-spring-demo
 
-Example project of how RAP may be integrated with Spring.
+Example project of how Eclipse RAP (http://eclipse.org/rap/) may be integrated with Spring into a plain Java web application (WAR packaging). 
 
 ## About 
-It shows some aspects of Spring integration:
+This project shows some aspects of RAP/Spring integration. I intend to write some blog posts about this, please be patient. In the meantime, have a look at the code.
 
 ### Tapping into Spring web application context
 See classes:
